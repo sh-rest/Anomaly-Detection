@@ -67,3 +67,5 @@ After running the script, you will see a plot displaying:
 
 - You can adjust parameters such as `window_size`, `z_threshold`, `alpha`, `k`, and `long_term_threshold` in the `detect_anomalies` function call to tailor the detection sensitivity to your needs.
 - You can also adjust parameters such as `window` and `window_maxlen` in the `real_time_plot` function call to tailor the view in which you receive the final plot
+
+[Go to documentation](optimizations.md)
